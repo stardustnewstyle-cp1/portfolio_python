@@ -97,7 +97,7 @@
 - GitHub
 
 # 9. フォルダ構成
-/portfolio_python/
+```/portfolio_python/
 │
 ├─ README.md
 ├─ 学習まとめ.txt
@@ -135,6 +135,7 @@
 ├─ fetcher_rss_articles.py
 ├─ normalize_article.py
 └─ randomizer.py
+```
 
 # 10. 学習まとめ
 ※ 別紙 PDF（1ページ）
