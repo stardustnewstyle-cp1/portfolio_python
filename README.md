@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ※ 本 README は成果物の説明を目的としており、pythonの学習成果は別紙「学習まとめ.txt」に記載している。
 
 1. アプリ名
@@ -224,3 +225,6 @@ Python のモジュール構成に関するベストプラクティス（Real Py
 　try/except の設計、例外の種類の理解
 　https://docs.python.org/3/tutorial/errors.html (docs.python.org in Bing)
 
+=======
+# portfolio_python
+>>>>>>> e162254e9067dff4447d34537c4af4b16e6db967
